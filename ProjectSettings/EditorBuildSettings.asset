@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/TitleScene_New.unity
+    guid: 2796d56ed9304ab4881fd300835d0998
+  - enabled: 1
+    path: Assets/Scenes/CountDownScene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Tutorial.unity
+    guid: 08631729ce1f9374482cfc6265665d14
+  - enabled: 0
+    path: Assets/Scenes/Editor/TestScene.unity
+    guid: 2807c60ed2d68bb47842821c0d2d6990
+  - enabled: 0
+    path: Assets/Scenes/Editor/New_EditingScene.unity
+    guid: 035c4850ef76a2c419807fc3dccaeb4b
+  - enabled: 0
+    path: Assets/Scenes/CountDownScene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 0
+    path: Assets/Scenes/TitleScene_New.unity
+    guid: 2796d56ed9304ab4881fd300835d0998
+  m_configObjects: {}
